@@ -1,0 +1,60 @@
+{
+  "nse_code": "ABBIND",
+  "company_name": "Abbott India",
+  "brokerage_house": "ICICI Securities",
+  "report_date": "2026-05-12",
+  "recommendation": "BUY",
+  "target_price": 32400.0,
+  "target_horizon_months": 12,
+  "universal_quantitative_estimates": {
+    "forward_revenue": {
+      "current_year": 6929.1,
+      "forward_year_1": 7552.0,
+      "forward_year_2": 8307.2
+    },
+    "forward_ebitda_margin_percent": {
+      "current_year": 27.3,
+      "forward_year_1": 27.3,
+      "forward_year_2": 28.1
+    },
+    "forward_pat": {
+      "current_year": 1552.0,
+      "forward_year_1": 1691.8,
+      "forward_year_2": 1912.8
+    },
+    "forward_eps": {
+      "current_year": 730.4,
+      "forward_year_1": 796.1,
+      "forward_year_2": 900.1
+    },
+    "forward_roe_percent": {
+      "current_year": 32.5,
+      "forward_year_1": 30.1,
+      "forward_year_2": 29.1
+    }
+  },
+  "additional_quantitative_metrics": {},
+  "strategic_corporate_updates": {
+    "announced_capex_and_capacity": [],
+    "mergers_and_acquisitions": [],
+    "key_segmental_shifts": [
+      "New therapeutic foray into vaccines is doing well with ~21% YoY growth as per IQVIA MAT April '26",
+      "Traction from anti-diabetes/obesity drug Semaglutide (partnered with Novo, brand name Extensior) among stiff generic competition but higher than expected demand"
+    ],
+    "regulatory_and_policy_impacts": []
+  },
+  "management_guidance": [
+    "Company plans to launch 75 new brands in the next 5 years"
+  ],
+  "forward_growth_catalysts": [
+    "Legacy power brands (top 10 brands CAGR ~9% between April 23-26) continue to drive growth",
+    "New product launch trajectory: +100 launches in last 12 years and another 75 planned for next 5 years",
+    "Vaccine portfolio growing at ~21% YoY",
+    "Semaglutide (Extensior) addressing anti-diabetes/obesity market with high demand"
+  ],
+  "forward_structural_risks": [
+    "Increasing generic competition in some power brands",
+    "Lumpiness in distribution margins",
+    "Slowdown in key Novo Nordisk brands (Mixtard, Novomix) and de-growth in Rybelsus growth moderation"
+  ]
+}

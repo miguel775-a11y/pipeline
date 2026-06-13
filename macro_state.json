@@ -1,0 +1,514 @@
+{
+  "active_reports": [
+    {
+      "report_metadata": {
+        "report_title": "Metals & Mining | Sector Update",
+        "report_type": "Commodity",
+        "publication_date_yyyy_mm_dd": "2026-05-11"
+      },
+      "index_technical_regime": null,
+      "sector_rotation_graph": null,
+      "macro_insights": {
+        "systemic_headwinds": [
+          "Middle-East conflict affecting production and shipping routes",
+          "Prolonged closure of Strait of Hormuz causing supply-demand mismatch",
+          "Weak sentiments in finished steel markets",
+          "Weak liquidity in iron ore market",
+          "Supply side slowdown in Australia due to delays in mining activities"
+        ],
+        "systemic_tailwinds": [
+          "Steelmakers announced price hikes for May deliveries",
+          "Expectations of dip in production due to scheduled maintenance shutdown",
+          "Rise in raw material prices post May Day holidays",
+          "Decrease in inventory levels at key steel mills"
+        ],
+        "commodity_trends": [
+          {
+            "commodity_name": "Indian HRC",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Billet-Ex-Raipur",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Chinese HRC",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Iron Ore Odisha",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Coking Coal",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Aluminium",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Copper",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Zinc",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Nickel",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Lead",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Tin",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Brent Crude",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Energy"
+            ]
+          },
+          {
+            "commodity_name": "Natural Gas",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Energy"
+            ]
+          }
+        ]
+      },
+      "f_and_o_volume_shifts": null,
+      "tactical_technical_ideas": [],
+      "sector_peer_coverage": [],
+      "source_file": "Commodity_Price_Update_SU.pdf",
+      "temporal_engine": {
+        "days_elapsed": 19,
+        "max_lifespan_days": 30,
+        "validity_status": "Active",
+        "relevance_multiplier": 0.37
+      }
+    },
+    {
+      "report_metadata": {
+        "report_title": "Information Technology Sector Update",
+        "report_type": "Sector",
+        "publication_date_yyyy_mm_dd": "2026-05-14"
+      },
+      "index_technical_regime": null,
+      "sector_rotation_graph": null,
+      "macro_insights": {
+        "systemic_headwinds": [
+          "Higher concentration of diagnostics (60% of revenue) for LatentView",
+          "Insourcing risk (US$5-6mn) from top account for LatentView",
+          "Data engineering service perceived as commoditized",
+          "Trade-off tilted toward revenue growth over margins for Fractal and LatentView"
+        ],
+        "systemic_tailwinds": [
+          "AI-led structural changes driving demand for analytics",
+          "Platform-led approach builds deeper client engagement",
+          "Proactive engagement improves incremental scope",
+          "Horizontal service orientation towards non-commoditized services",
+          "Partnerships with database companies (Snowflake, Databricks) enable faster transition to strategic layers"
+        ],
+        "commodity_trends": []
+      },
+      "f_and_o_volume_shifts": null,
+      "tactical_technical_ideas": [],
+      "sector_peer_coverage": [
+        {
+          "nse_code": "COFORGE",
+          "company_name": "Coforge",
+          "recommendation": "BUY",
+          "target_price": 2020
+        },
+        {
+          "nse_code": "CYIENT",
+          "company_name": "Cyient",
+          "recommendation": "BUY",
+          "target_price": 950
+        },
+        {
+          "nse_code": "FRACTAL",
+          "company_name": "Fractal Analytics",
+          "recommendation": "Hold",
+          "target_price": 1040
+        },
+        {
+          "nse_code": "HCLTECH",
+          "company_name": "HCL Technologies",
+          "recommendation": "Reduce",
+          "target_price": 1300
+        },
+        {
+          "nse_code": "INFY",
+          "company_name": "Infosys",
+          "recommendation": "BUY",
+          "target_price": 1570
+        },
+        {
+          "nse_code": "KPITTECH",
+          "company_name": "KPIT Technologies",
+          "recommendation": "BUY",
+          "target_price": 880
+        },
+        {
+          "nse_code": "LTTS",
+          "company_name": "L&T Technology Services",
+          "recommendation": "Hold",
+          "target_price": 3610
+        },
+        {
+          "nse_code": "LATENTVIEW",
+          "company_name": "Latent View Analytics",
+          "recommendation": "BUY",
+          "target_price": 450
+        },
+        {
+          "nse_code": "LTIM",
+          "company_name": "LTM",
+          "recommendation": "Hold",
+          "target_price": 4560
+        },
+        {
+          "nse_code": "MPHASIS",
+          "company_name": "Mphasis",
+          "recommendation": "BUY",
+          "target_price": 3000
+        },
+        {
+          "nse_code": "PERSISTENT",
+          "company_name": "Persistent Systems",
+          "recommendation": "Buy",
+          "target_price": 6400
+        },
+        {
+          "nse_code": "TCS",
+          "company_name": "Tata Consultancy Services",
+          "recommendation": "BUY",
+          "target_price": 3450
+        },
+        {
+          "nse_code": "TATAELXSI",
+          "company_name": "Tata Elxsi",
+          "recommendation": "HOLD",
+          "target_price": 4800
+        },
+        {
+          "nse_code": "TATATECH",
+          "company_name": "Tata Technologies",
+          "recommendation": "HOLD",
+          "target_price": 560
+        },
+        {
+          "nse_code": "TECHM",
+          "company_name": "Tech Mahindra",
+          "recommendation": "Buy",
+          "target_price": 1660
+        },
+        {
+          "nse_code": "WIPRO",
+          "company_name": "Wipro",
+          "recommendation": "HOLD",
+          "target_price": 200
+        }
+      ],
+      "source_file": "Information Technology.pdf",
+      "temporal_engine": {
+        "days_elapsed": 16,
+        "max_lifespan_days": 90,
+        "validity_status": "Active",
+        "relevance_multiplier": 0.82
+      }
+    },
+    {
+      "report_metadata": {
+        "report_title": "Metals & Mining Sector Update",
+        "report_type": "Sector",
+        "publication_date_yyyy_mm_dd": "2026-05-13"
+      },
+      "index_technical_regime": null,
+      "sector_rotation_graph": null,
+      "macro_insights": {
+        "systemic_headwinds": [
+          "Higher oil prices affecting fragile economies",
+          "Weak European demand",
+          "Weakness in construction, automotive and packaging in Europe",
+          "China demand growth downgraded due to weakness in real estate, automobile production, solar panel demand",
+          "Prolonged high oil and energy prices could weigh on consumption in Southeast Asia",
+          "Demand destruction risk from higher oil prices and weaker macro conditions across EU, UK and SEA"
+        ],
+        "systemic_tailwinds": [
+          "Supply shock from loss of Middle East aluminium capacity",
+          "Elevated metal premiums in Europe, US, Japan",
+          "Strong margins for Chinese smelters due to low alumina prices and strong metal prices",
+          "Healthy demand trends in Southeast Asia (ex-China and ex-India)",
+          "EV exports from China remain relatively strong"
+        ],
+        "commodity_trends": [
+          {
+            "commodity_name": "Aluminium",
+            "trend_direction": "Rising",
+            "impacted_sectors": [
+              "Metals & Mining",
+              "Autos",
+              "Packaging",
+              "Construction"
+            ]
+          },
+          {
+            "commodity_name": "Alumina",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          },
+          {
+            "commodity_name": "Bauxite",
+            "trend_direction": "Stable",
+            "impacted_sectors": [
+              "Metals & Mining"
+            ]
+          }
+        ]
+      },
+      "f_and_o_volume_shifts": null,
+      "tactical_technical_ideas": [],
+      "sector_peer_coverage": [
+        {
+          "nse_code": "HINDALCO",
+          "company_name": "Hindalco Industries",
+          "recommendation": "Accumulate",
+          "target_price": 1043
+        },
+        {
+          "nse_code": "JSL",
+          "company_name": "Jindal Stainless",
+          "recommendation": "Accumulate",
+          "target_price": 821
+        },
+        {
+          "nse_code": "JINDALSTEL",
+          "company_name": "Jindal Steel",
+          "recommendation": "Accumulate",
+          "target_price": 1289
+        },
+        {
+          "nse_code": "JSWSTEEL",
+          "company_name": "JSW Steel",
+          "recommendation": "Accumulate",
+          "target_price": 1289
+        },
+        {
+          "nse_code": "NATIONALUM",
+          "company_name": "National Aluminium Co.",
+          "recommendation": "Hold",
+          "target_price": 413
+        },
+        {
+          "nse_code": "NMDC",
+          "company_name": "NMDC",
+          "recommendation": "Accumulate",
+          "target_price": 95
+        },
+        {
+          "nse_code": "SAIL",
+          "company_name": "Steel Authority of India",
+          "recommendation": "Accumulate",
+          "target_price": 176
+        },
+        {
+          "nse_code": "TATASTEEL",
+          "company_name": "Tata Steel",
+          "recommendation": "Accumulate",
+          "target_price": 216
+        }
+      ],
+      "source_file": "MetalsMining-13-5-26-PL.pdf",
+      "temporal_engine": {
+        "days_elapsed": 17,
+        "max_lifespan_days": 90,
+        "validity_status": "Active",
+        "relevance_multiplier": 0.81
+      }
+    },
+    {
+      "report_metadata": {
+        "report_title": "Weekly Wealth",
+        "report_type": "Weekly",
+        "publication_date_yyyy_mm_dd": "2026-05-23"
+      },
+      "index_technical_regime": {
+        "index_name": "Nifty 50",
+        "trend_status": "Downtrend",
+        "market_breadth": "Negative",
+        "market_momentum": "Negative",
+        "support_levels": [
+          23404,
+          23089,
+          22546
+        ],
+        "resistance_levels": [
+          23947,
+          24175,
+          24718
+        ]
+      },
+      "sector_rotation_graph": {
+        "leading_sectors": [],
+        "improving_sectors": [],
+        "lagging_sectors": [],
+        "weakening_sectors": []
+      },
+      "macro_insights": {
+        "systemic_headwinds": [
+          "Currency weakness (rupee decline)",
+          "Global uncertainty",
+          "Persistent FII selling",
+          "Sharp rupee decline",
+          "Concerns over possible RBI intervention",
+          "Elevated crude oil prices",
+          "Rising US bond yields",
+          "Ongoing geopolitical risks",
+          "High energy costs",
+          "Middle East trade disruptions",
+          "China's industrial output growth slowing to 4.1% YoY",
+          "China's retail sales expansion collapsing to 0.2%",
+          "US Federal Reserve indicating possible interest rate hikes if inflation persists above 2% target"
+        ],
+        "systemic_tailwinds": [
+          "Value buying in IT and select large caps",
+          "Dollar-led strength in export-oriented stocks",
+          "Earnings-driven momentum in pharma",
+          "Easing geopolitical tensions",
+          "Stabilising global macro conditions",
+          "Crude oil prices retreating from recent highs",
+          "Renewed diplomatic engagement between US and Iran"
+        ],
+        "commodity_trends": [
+          {
+            "commodity_name": "Brent Crude",
+            "trend_direction": "Falling",
+            "impacted_sectors": [
+              "Autos",
+              "FMCG",
+              "Metals"
+            ]
+          }
+        ]
+      },
+      "f_and_o_volume_shifts": {
+        "top_oi_gainers": [
+          {
+            "nse_code": "AMBER",
+            "share_price_change_percent": -13,
+            "open_interest_change_percent": -33
+          },
+          {
+            "nse_code": "PREMIERENE",
+            "share_price_change_percent": 2,
+            "open_interest_change_percent": -35
+          },
+          {
+            "nse_code": "INOXWIND",
+            "share_price_change_percent": -1,
+            "open_interest_change_percent": -36
+          },
+          {
+            "nse_code": "RECLTD",
+            "share_price_change_percent": -3,
+            "open_interest_change_percent": -37
+          },
+          {
+            "nse_code": "COCHINSHIP",
+            "share_price_change_percent": -3,
+            "open_interest_change_percent": -38
+          }
+        ],
+        "top_oi_losers": [
+          {
+            "nse_code": "AUROPHARMA",
+            "share_price_change_percent": -3,
+            "open_interest_change_percent": -79
+          },
+          {
+            "nse_code": "POWERGRID",
+            "share_price_change_percent": -3,
+            "open_interest_change_percent": -78
+          },
+          {
+            "nse_code": "ALKEM",
+            "share_price_change_percent": -1,
+            "open_interest_change_percent": -77
+          },
+          {
+            "nse_code": "BAJFINANCE",
+            "share_price_change_percent": 1,
+            "open_interest_change_percent": -76
+          },
+          {
+            "nse_code": "DIXON",
+            "share_price_change_percent": 6,
+            "open_interest_change_percent": -76
+          }
+        ]
+      },
+      "tactical_technical_ideas": [
+        {
+          "nse_code": "SONACOMS",
+          "company_name": "Sona BLW Precision Forgings Ltd.",
+          "buy_range": "590-595",
+          "target_price": 685,
+          "stop_loss": 554,
+          "upside_potential_percent": 16.1
+        }
+      ],
+      "sector_peer_coverage": [],
+      "source_file": "Stoxbox_Weekly Wealth_23rd May, 2026.pdf",
+      "temporal_engine": {
+        "days_elapsed": 7,
+        "max_lifespan_days": 14,
+        "validity_status": "Active",
+        "relevance_multiplier": 0.5
+      }
+    }
+  ]
+}
